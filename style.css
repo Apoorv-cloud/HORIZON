@@ -246,7 +246,7 @@ h1::after
 /*------------------promo---------------------*/
 #promo
 {
-    background-image: linear-gradient(to bottom, rgb(255,140,0), rgb(128,128,128));
+    background-image: linear-gradient(to bottom,rgb(128,128,128), rgb(255,140,0));
     background-size: cover;
     background-position: center;
     color: #fff;
